@@ -1,4 +1,4 @@
-// design pattern : State
+// Design Pattern: State
 // 
 //
 // IDECodeSnippetCompletionScopes: [All]
