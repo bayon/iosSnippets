@@ -5,7 +5,7 @@
 // IDECodeSnippetIdentifier: 8894339F-A0B7-4D13-A5FB-2E92F439EB65
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C-Plus-Plus
 // IDECodeSnippetUserSnippet: 1
-// IDECodeSnippetVersion: 0
+// IDECodeSnippetVersion: 2
 
 /*
  PROTOCOL EXAMPLE
