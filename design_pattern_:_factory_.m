@@ -5,7 +5,7 @@
 // IDECodeSnippetIdentifier: 3F2FABFB-2346-4F73-9322-58EAF23A33F1
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Generic
 // IDECodeSnippetUserSnippet: 1
-// IDECodeSnippetVersion: 0
+// IDECodeSnippetVersion: 2
 // Design Pattern : Factory
 
 //VC.h
