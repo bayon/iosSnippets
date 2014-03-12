@@ -5,7 +5,7 @@
 // IDECodeSnippetIdentifier: DDD7C455-E444-4F95-A2AF-772F04E25573
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Generic
 // IDECodeSnippetUserSnippet: 1
-// IDECodeSnippetVersion: 0
+// IDECodeSnippetVersion: 2
 
 // State Design Pattern
 //VC.h
