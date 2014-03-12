@@ -5,7 +5,7 @@
 // IDECodeSnippetIdentifier: 6028A6B9-E92A-4C93-A0D4-E9EFC9F99254
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Generic
 // IDECodeSnippetUserSnippet: 1
-// IDECodeSnippetVersion: 0
+// IDECodeSnippetVersion: 2
 //Design Pattern: Decorator
 
 
