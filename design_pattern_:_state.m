@@ -7,7 +7,7 @@
 // IDECodeSnippetUserSnippet: 1
 // IDECodeSnippetVersion: 0
 
-// State Design
+// State Design Pattern
 //VC.h
 
 #import <UIKit/UIKit.h>
