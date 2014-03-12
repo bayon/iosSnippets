@@ -5,7 +5,7 @@
 // IDECodeSnippetIdentifier: EBA39D36-294A-4735-B425-DBE8AEB6BF5D
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Generic
 // IDECodeSnippetUserSnippet: 1
-// IDECodeSnippetVersion: 0
+// IDECodeSnippetVersion: 2
 
 
 //VC.h
