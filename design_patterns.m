@@ -5,7 +5,7 @@
 // IDECodeSnippetIdentifier: 77571C97-2B35-4EBF-A1F1-3F4FBDEE8F42
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Generic
 // IDECodeSnippetUserSnippet: 1
-// IDECodeSnippetVersion: 0
+// IDECodeSnippetVersion: 2
 Design Patterns:
 ——————————————————
 Main Seven Patterns:
