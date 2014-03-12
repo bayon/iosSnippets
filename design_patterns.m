@@ -1,4 +1,4 @@
-// Design Patterns
+// Design Pattern
 // 
 //
 // IDECodeSnippetCompletionScopes: [All]
