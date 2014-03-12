@@ -5,7 +5,7 @@
 // IDECodeSnippetIdentifier: 7A17503F-9B0A-4F8C-A91C-FC125CAB67FC
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
 // IDECodeSnippetUserSnippet: 1
-// IDECodeSnippetVersion: 0
+// IDECodeSnippetVersion: 2
  //INVOCATION http://stackoverflow.com/questions/313400/nsinvocation-for-dummies
 
 The concept of messages is central to the objective-c philosophy. Any time you call a method, or access a variable of some object, you are sending it a message. NSInvocation comes in handy when you want to send a message to an object at a different point in time, or send the same message several times. NSInvocation allows you to describe the message you are going to send, and then invoke it (actually send it to the target object) later on.
