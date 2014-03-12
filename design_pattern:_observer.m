@@ -5,7 +5,7 @@
 // IDECodeSnippetIdentifier: FFC458DA-D600-4C17-8933-4A4018AD34A1
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Generic
 // IDECodeSnippetUserSnippet: 1
-// IDECodeSnippetVersion: 0
+// IDECodeSnippetVersion: 2
 
 //ObserverPattern
 
