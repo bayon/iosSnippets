@@ -5,7 +5,7 @@
 // IDECodeSnippetIdentifier: 0D7B1570-895D-442E-8C5E-8A2EF5FAB9B5
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
 // IDECodeSnippetUserSnippet: 1
-// IDECodeSnippetVersion: 0
+// IDECodeSnippetVersion: 2
 // initWithNibName : properly
 - (id)init
 {
