@@ -88,4 +88,8 @@ Avoid Date Formatters Where Possible
     return [NSDate dateWithTimeIntervalSince1970:timestamp];
 }
 Note that many web APIs return timestamps as milliseconds, since it’s very common for Javascript to eventually consume and process this data. Just be aware that you’ll need to divide the timestamp by 1000 before passing it to the dateFromUnixTimestamp method.
+ 
+ 
+ Use Sprite Sheets possibly reducing tons of large images.
+ http://www.raywenderlich.com/32045/how-to-use-animations-and-sprite-sheets-in-cocos2d-2-x
  */
