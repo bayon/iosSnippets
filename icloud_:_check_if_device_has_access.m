@@ -5,7 +5,7 @@
 // IDECodeSnippetIdentifier: B79A4801-ABA8-4ADF-8A79-2419EA844BF8
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C-Plus-Plus
 // IDECodeSnippetUserSnippet: 1
-// IDECodeSnippetVersion: 0
+// IDECodeSnippetVersion: 2
 /*
  // iCloud : check if device has access
  NSURL *ubiq = [[NSFileManager defaultManager]
