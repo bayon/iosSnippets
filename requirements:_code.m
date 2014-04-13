@@ -9,7 +9,7 @@
 /*
    // Requirements: Code
  #### Code Requirements
- - git commit -m 
+ - git commit -m "<branch name>:
  
  
  - The application will be written for the most current version of iOS
