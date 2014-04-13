@@ -1,4 +1,4 @@
-// AAStats : Design Assets
+// AAStats: Design Assets
 // 
 //
 // IDECodeSnippetCompletionScopes: [TopLevel]
