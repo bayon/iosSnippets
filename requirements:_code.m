@@ -9,6 +9,8 @@
 /*
    // Requirements: Code
  #### Code Requirements
+ - 
+ 
  
  - The application will be written for the most current version of iOS
  - The application will be written using [Objective-C 2.0](http://deimos3.apple.com/WebObjects/Core.woa/FeedEnclosure/utah.edu.1668842900.01668842919.1679650489/enclosure.pdf) syntax where possible (Array literals, dictionary literals, number literals, etc.).
