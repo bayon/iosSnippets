@@ -1,4 +1,4 @@
-// AAStats : Description
+// AAStats: Description
 // 
 //
 // IDECodeSnippetCompletionScopes: [TopLevel]
