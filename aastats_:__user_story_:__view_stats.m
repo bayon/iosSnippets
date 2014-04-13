@@ -1,4 +1,4 @@
-// AAStats :  User Story :  View Stats
+// AAStats:  User Story: View Stats
 // 
 //
 // IDECodeSnippetCompletionScopes: [TopLevel]
