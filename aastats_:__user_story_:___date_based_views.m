@@ -1,4 +1,4 @@
-// AAStats :  User Story :   Date based views
+// AAStats:  User Story:  Date based views
 // 
 //
 // IDECodeSnippetCompletionScopes: [TopLevel]
