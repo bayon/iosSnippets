@@ -5,7 +5,7 @@
 // IDECodeSnippetIdentifier: 8495B18F-5C42-4B5E-A45B-3C4D5B755115
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Generic
 // IDECodeSnippetUserSnippet: 1
-// IDECodeSnippetVersion: 0
+// IDECodeSnippetVersion: 2
 HTTP LIVE STREAMING
 ------------------------------------------------------------
 
