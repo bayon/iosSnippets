@@ -5,7 +5,7 @@
 // IDECodeSnippetIdentifier: B5CD03A3-1C42-4D01-8B4C-DDAE6D8849C0
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C-Plus-Plus
 // IDECodeSnippetUserSnippet: 1
-// IDECodeSnippetVersion: 0
+// IDECodeSnippetVersion: 2
 /*
    // Requirements: Project Structure
    Project Structure
