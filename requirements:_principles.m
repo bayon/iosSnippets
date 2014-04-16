@@ -5,7 +5,7 @@
 // IDECodeSnippetIdentifier: B29F944D-02EE-4B8E-8165-F5B6A6E15536
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C-Plus-Plus
 // IDECodeSnippetUserSnippet: 1
-// IDECodeSnippetVersion: 0
+// IDECodeSnippetVersion: 2
 /*
    // Requirements: Principles
    DRY
