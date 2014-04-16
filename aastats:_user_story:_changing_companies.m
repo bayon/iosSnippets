@@ -5,7 +5,7 @@
 // IDECodeSnippetIdentifier: C02E1374-0178-421B-A82E-B03339C4FE94
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C-Plus-Plus
 // IDECodeSnippetUserSnippet: 1
-// IDECodeSnippetVersion: 0
+// IDECodeSnippetVersion: 2
 /*
    //  AAStats: User Story: Changing Companies
  #### Changing companies (swipe up and down)
