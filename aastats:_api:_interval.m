@@ -5,7 +5,7 @@
 // IDECodeSnippetIdentifier: 18EF4B81-D150-4550-9E7E-C29309042B71
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C-Plus-Plus
 // IDECodeSnippetUserSnippet: 1
-// IDECodeSnippetVersion: 0
+// IDECodeSnippetVersion: 2
 /*
    //  AAStats: API: Interval
  #### API
