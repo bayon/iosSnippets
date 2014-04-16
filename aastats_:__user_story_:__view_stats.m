@@ -5,7 +5,7 @@
 // IDECodeSnippetIdentifier: EDFFB975-6D5A-40D9-9B2E-10E4B8BF0211
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C-Plus-Plus
 // IDECodeSnippetUserSnippet: 1
-// IDECodeSnippetVersion: 0
+// IDECodeSnippetVersion: 2
 /*
    //  AAStats :  User Story :  View Stats
  ### View Stats
