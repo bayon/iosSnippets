@@ -5,7 +5,7 @@
 // IDECodeSnippetIdentifier: 21B6D98D-F3A6-4A0B-A685-8403DEB77BD5
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C-Plus-Plus
 // IDECodeSnippetUserSnippet: 1
-// IDECodeSnippetVersion: 0
+// IDECodeSnippetVersion: 2
 /*
    //  AAStats : Design Assets
  ### Design Assets
