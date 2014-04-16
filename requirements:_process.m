@@ -5,7 +5,7 @@
 // IDECodeSnippetIdentifier: 5DEF3D2A-EDA5-45AE-B6C3-E6B30B9C24AF
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C-Plus-Plus
 // IDECodeSnippetUserSnippet: 1
-// IDECodeSnippetVersion: 0
+// IDECodeSnippetVersion: 2
 /*
    // Requirements: Process
  #### Process Requirements
