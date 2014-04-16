@@ -5,7 +5,7 @@
 // IDECodeSnippetIdentifier: 8FD5E595-A728-4979-A286-7245B4DC9AAA
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
 // IDECodeSnippetUserSnippet: 1
-// IDECodeSnippetVersion: 0
+// IDECodeSnippetVersion: 2
  // ScrollView : like scrollable cell
     int scrollHeight = 50;
     UIScrollView *scrollview = [[UIScrollView alloc] initWithFrame:CGRectMake(0, scrollHeight, 300, 50)];
