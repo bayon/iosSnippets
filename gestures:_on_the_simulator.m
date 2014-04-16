@@ -5,7 +5,7 @@
 // IDECodeSnippetIdentifier: 7C11E368-54A7-49FD-B36D-10D68D7A929D
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C-Plus-Plus
 // IDECodeSnippetUserSnippet: 1
-// IDECodeSnippetVersion: 0
+// IDECodeSnippetVersion: 2
 /*
 gestures: on the simulator
  
