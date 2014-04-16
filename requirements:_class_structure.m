@@ -5,7 +5,7 @@
 // IDECodeSnippetIdentifier: 356699FD-5B81-4B7F-B3A4-193FAB54327A
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C-Plus-Plus
 // IDECodeSnippetUserSnippet: 1
-// IDECodeSnippetVersion: 0
+// IDECodeSnippetVersion: 2
 /*
    // Requirements: Class Structure
  
