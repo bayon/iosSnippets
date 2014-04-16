@@ -5,7 +5,7 @@
 // IDECodeSnippetIdentifier: AE36F1A8-CB53-49F6-8A4A-EFC48A544EAC
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C-Plus-Plus
 // IDECodeSnippetUserSnippet: 1
-// IDECodeSnippetVersion: 0
+// IDECodeSnippetVersion: 2
 /*
 Error: Command /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang failed with exit code 1
 
