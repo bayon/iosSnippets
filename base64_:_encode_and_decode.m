@@ -5,7 +5,7 @@
 // IDECodeSnippetIdentifier: 1EFC474A-D9BB-4E08-9BDE-DC30A066423F
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
 // IDECodeSnippetUserSnippet: 1
-// IDECodeSnippetVersion: 0
+// IDECodeSnippetVersion: 2
 /*
  // base64 : encode and decode
  NSString *plainString = @"foo";
