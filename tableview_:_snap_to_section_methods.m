@@ -5,7 +5,7 @@
 // IDECodeSnippetIdentifier: 3E19AF27-1E6D-41B3-B25E-7E1C1974FF29
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
 // IDECodeSnippetUserSnippet: 1
-// IDECodeSnippetVersion: 0
+// IDECodeSnippetVersion: 2
 // after touch up and it stopped scrolling.
 - (void)scrollViewDidEndDecelerating:(UIScrollView *)scrollView
 {
