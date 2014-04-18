@@ -5,7 +5,7 @@
 // IDECodeSnippetIdentifier: B724032D-E9A2-4A50-8797-F530C77C6B6E
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C-Plus-Plus
 // IDECodeSnippetUserSnippet: 1
-// IDECodeSnippetVersion: 0
+// IDECodeSnippetVersion: 2
 /*
  
  //Cocoa Pods: install a pod
