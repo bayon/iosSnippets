@@ -5,7 +5,7 @@
 // IDECodeSnippetIdentifier: C3A96A06-3C6C-4EC3-861C-ECA7490DBFE5
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
 // IDECodeSnippetUserSnippet: 1
-// IDECodeSnippetVersion: 0
+// IDECodeSnippetVersion: 2
 
     
     /* PageControl : Page Indicator
