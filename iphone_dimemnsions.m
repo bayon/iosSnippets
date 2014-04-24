@@ -1,4 +1,4 @@
-// iPhone Dimemnsions
+// iPhone Dimensions
 // 
 //
 // IDECodeSnippetCompletionScopes: [CodeBlock]
